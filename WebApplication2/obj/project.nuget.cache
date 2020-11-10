@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8aG+lAfmjL46qoRHdSHdsEyzYz4lTLr83JrPaRuVjh8JVjkZlQ030OBoqSAu3Kf3mtiYnJvWPM1OUV+FEZ/ybw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZhangKaiCheng\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZhangKaiCheng\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\ZhangKaiCheng\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\ZhangKaiCheng\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\ZhangKaiCheng\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
